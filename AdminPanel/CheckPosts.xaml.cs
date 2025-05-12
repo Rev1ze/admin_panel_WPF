@@ -32,7 +32,7 @@ namespace AdminPanel
         {
             foreach (var item in getter.GetPosts())
             {
-                if (item.Status != "onquerry" || item.IsOp == false)
+                if (item.Status != "просмотр" || item.IsOp == false)
                 {
                     continue;
                 }

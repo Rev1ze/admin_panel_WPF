@@ -114,3 +114,4 @@ C:\Users\user\source\repos\ConsoleApp19\AdminPanel\AdminPanel\obj\Debug\net8.0-w
 C:\Users\user\source\repos\ConsoleApp19\AdminPanel\AdminPanel\obj\Debug\net8.0-windows\CheckPosts.baml
 C:\Users\user\source\repos\ConsoleApp19\AdminPanel\AdminPanel\obj\Debug\net8.0-windows\approve_post_user_control.g.cs
 C:\Users\user\source\repos\ConsoleApp19\AdminPanel\AdminPanel\obj\Debug\net8.0-windows\approve_post_user_control.baml
+C:\Users\user\source\repos\ConsoleApp19\AdminPanel\AdminPanel\obj\Debug\net8.0-windows\AdminPanel.sourcelink.json

@@ -44,7 +44,7 @@ namespace AdminPanel
                 messageBox.Content = "Пост успешно одобрен!";
                 messageBox.Title = "Поздравляем!";
                 messageBox.ShowDialogAsync();
-                post.Status = "accepted";
+                post.Status = "принято";
                 context.Update(post);
                 context.SaveChanges();
                 this.Visibility = System.Windows.Visibility.Collapsed;
@@ -69,7 +69,7 @@ namespace AdminPanel
                 messageBox.Content = "Пост отклонен!";
                 messageBox.Title = "Сочувствуем!";
                 messageBox.ShowDialogAsync();
-                post.Status = "declined";
+                post.Status = "отклонено";
                 context.Update(post);
                 context.SaveChanges();
                 this.Visibility = System.Windows.Visibility.Collapsed;
